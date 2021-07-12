@@ -1,7 +1,7 @@
 import React from 'react';
 import { Typography, AppBar } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-// ypography is a Material-UI component used to standardize the text and its related CSS properties without worrying about browser compatibility issues.
+// Typography is a Material-UI component used to standardize the text and its related CSS properties without worrying about browser compatibility issues.
 import VideoPlayer from './components/VideoPlayer';
 import Sidebar from './components/Sidebar';
 import Notifications from './components/Notifications';
